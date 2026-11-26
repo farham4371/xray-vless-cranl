@@ -1,0 +1,1 @@
+{"log":{"loglevel":"warning"},"inbounds":[{"port":8080,"protocol":"vless","settings":{"clients":[{"id":"4f8259e5-600a-4554-bb93-a8f4c3668029","flow":""}],"decryption":"none"},"streamSettings":{"network":"ws","wsSettings":{"path":"/vless"}}}],"outbounds":[{"protocol":"freedom"}]}
